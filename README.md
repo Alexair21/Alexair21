@@ -18,7 +18,7 @@
   
 🔧 **Áreas de interés:**
 
-- Desarrollo web (HTML, CSS, JavaScript, React, Node.js)
+- Desarrollo web (HTML, CSS, JavaScript, React)
 - Diseño de interfaces y experiencia de usuario (UI/UX)
 
 💡 **Siempre en busca de aprender algo nuevo y desafiarme a mí mismo.**
